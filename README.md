@@ -15,7 +15,9 @@ Menghindari terjadinya hal hal yang merugikan bagi pihak penyedia Paylater yang 
 ## Manfaat
 - Penentuan Risiko Kredit yang lebih Akurat
 - Peningkatan Profit Perusahaan dengan Analisis Profil Pelanggan
-
+  
+## Atribut dan Overview Dataset
 <img src = "https://github.com/user-attachments/assets/9d53cb15-68c1-40ec-8783-7844074356a8" width = "800">
 
-
+# Steps in this Project 
+- 
