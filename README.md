@@ -16,6 +16,6 @@ Menghindari terjadinya hal hal yang merugikan bagi pihak penyedia Paylater yang 
 - Penentuan Risiko Kredit yang lebih Akurat
 - Peningkatan Profit Perusahaan dengan Analisis Profil Pelanggan
 
-![image](https://github.com/user-attachments/assets/9d53cb15-68c1-40ec-8783-7844074356a8)
+<img src = "https://github.com/user-attachments/assets/9d53cb15-68c1-40ec-8783-7844074356a8" width = "800">
 
 
