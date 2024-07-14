@@ -37,6 +37,7 @@ Menghindari terjadinya hal hal yang merugikan bagi pihak penyedia Paylater yang 
 ## Documentation 
 <img src = "https://github.com/user-attachments/assets/7474479e-8463-4016-a13a-f081155942fd" width = "800">
 <img src = "https://github.com/user-attachments/assets/b73e93d0-45f7-426c-add2-6456ff671540" width = "800">
+<img src = "https://github.com/user-attachments/assets/a21f2dff-3af0-4235-b5f5-6554e47f80bd" width = "800">
 <img src = "https://github.com/user-attachments/assets/53b36df5-b65e-4b97-991d-0f02332694cd" width = "800">
 <img src = "https://github.com/user-attachments/assets/3a7d1c17-5931-4715-9f5a-5ff54fa1e89b" width = "800">
 <img src = "https://github.com/user-attachments/assets/d5399609-51f6-4083-b71d-ae3da8947d05" width = "800">
