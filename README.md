@@ -1,9 +1,9 @@
 # Final Pitching Internship Data Scientist - Basic Computing Community (BCC) Fakultas Ilmu Komputer, Universitas Brawijaya
 
 ## Study Case
-Maraknya online store dan kemudahan dalam mengaksesnya, masyarakat cenderung menjadi konsumtif dalam menggunakan salah satu fitur di dalamnya yakni "Paylater".  
-Fitur ini memang terlihat memberi manfaat karena memberikan user untuk dapat membeli lebih banyak barang yang mereka inginkan dan perusahaan pun bisa mendapat keuntungan.
-Namun tidak sedikit yang memanfaatkan fitur ini dengan menunggak dan enggan membayar hutang mereka bahkan hingga melakukan tindakan mematikan dan memutuskan segala komunikasi agar terhindar dari tagihan hutang Paylater.
+Maraknya online store dan kemudahan dalam mengaksesnya, masyarakat cenderung menjadi konsumtif dalam menggunakan salah satu fitur di dalamnya yakni "Paylater".  Fitur ini memang terlihat memberi 
+manfaat karena memberikan user untuk dapat membeli lebih banyak barang yang mereka inginkan dan perusahaan pun bisa mendapat keuntungan. Namun tidak sedikit yang memanfaatkan 
+fitur ini dengan menunggak dan enggan membayar hutang mereka bahkan hingga melakukan tindakan mematikan dan memutuskan segala komunikasi agar terhindar dari tagihan hutang Paylater.
 Sehingga inti Poin permasalahan dari Proyek ini adalah "Banyak Klien gagal membayar tepat waktu Pinjaman".
 
 ## Solusi
